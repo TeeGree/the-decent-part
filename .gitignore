@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# vs code config file directory
+.vscode
+
+# mac OS files
+.DS_Store
+
+# user settings file
+the_good_part.settings.json
+
+# reserved name for random python syntax and logic testing
+test.py
